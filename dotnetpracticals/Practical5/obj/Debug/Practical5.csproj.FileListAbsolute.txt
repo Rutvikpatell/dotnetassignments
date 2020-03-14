@@ -1,0 +1,7 @@
+F:\Rutvik\dotnet\dotnetpracticals\Practical5\bin\Debug\Practical5.exe.config
+F:\Rutvik\dotnet\dotnetpracticals\Practical5\bin\Debug\Practical5.exe
+F:\Rutvik\dotnet\dotnetpracticals\Practical5\bin\Debug\Practical5.pdb
+F:\Rutvik\dotnet\dotnetpracticals\Practical5\obj\Debug\Practical5.csprojAssemblyReference.cache
+F:\Rutvik\dotnet\dotnetpracticals\Practical5\obj\Debug\Practical5.csproj.CoreCompileInputs.cache
+F:\Rutvik\dotnet\dotnetpracticals\Practical5\obj\Debug\Practical5.exe
+F:\Rutvik\dotnet\dotnetpracticals\Practical5\obj\Debug\Practical5.pdb

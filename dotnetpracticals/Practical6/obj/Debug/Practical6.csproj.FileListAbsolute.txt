@@ -1,0 +1,6 @@
+F:\Rutvik\dotnet\dotnetpracticals\Practical6\bin\Debug\Practical6.exe.config
+F:\Rutvik\dotnet\dotnetpracticals\Practical6\bin\Debug\Practical6.exe
+F:\Rutvik\dotnet\dotnetpracticals\Practical6\bin\Debug\Practical6.pdb
+F:\Rutvik\dotnet\dotnetpracticals\Practical6\obj\Debug\Practical6.csproj.CoreCompileInputs.cache
+F:\Rutvik\dotnet\dotnetpracticals\Practical6\obj\Debug\Practical6.exe
+F:\Rutvik\dotnet\dotnetpracticals\Practical6\obj\Debug\Practical6.pdb
