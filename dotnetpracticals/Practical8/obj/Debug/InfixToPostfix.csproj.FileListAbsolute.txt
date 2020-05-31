@@ -1,6 +1,0 @@
-F:\Rutvik\dotnet\dotnetpracticals\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
-F:\Rutvik\dotnet\dotnetpracticals\InfixToPostfix\bin\Debug\InfixToPostfix.exe
-F:\Rutvik\dotnet\dotnetpracticals\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
-F:\Rutvik\dotnet\dotnetpracticals\InfixToPostfix\obj\Debug\InfixToPostfix.csproj.CoreCompileInputs.cache
-F:\Rutvik\dotnet\dotnetpracticals\InfixToPostfix\obj\Debug\InfixToPostfix.exe
-F:\Rutvik\dotnet\dotnetpracticals\InfixToPostfix\obj\Debug\InfixToPostfix.pdb

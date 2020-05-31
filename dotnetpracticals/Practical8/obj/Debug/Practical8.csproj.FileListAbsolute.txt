@@ -1,0 +1,10 @@
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\obj\Debug\Practical8.csprojAssemblyReference.cache
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\obj\Debug\Practical8.Form1.resources
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\obj\Debug\Practical8.Properties.Resources.resources
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\obj\Debug\Practical8.csproj.GenerateResource.cache
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\obj\Debug\Practical8.csproj.CoreCompileInputs.cache
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\bin\Debug\Practical8.exe.config
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\bin\Debug\Practical8.exe
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\bin\Debug\Practical8.pdb
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\obj\Debug\Practical8.exe
+F:\Rutvik\dotnet\dotnetpracticals\Practical8\obj\Debug\Practical8.pdb
